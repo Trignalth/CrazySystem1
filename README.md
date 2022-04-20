@@ -1,4 +1,4 @@
-<!DOasasdesdaCTYPE html><html><head><meta charSet="-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style data-href="/styles.5bf378c3003aa59535ec.css" data-identity="gatsby-global-css">@charset "UTF-8";/*!
+<!DOasasdesdaCTYPE html><html><head><meta charSet="-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1,rink-to-fit=no"/><style data-href="/styles.5bf378c3003aa59535ec.css" data-identity="gatsby-global-css">@charset "UTF-8";/*!
  * Bootstrap v5.1.3 (https://.com/)
  * Copyright 2011-2021 The Bootstrap discounter
           Authorssdas
