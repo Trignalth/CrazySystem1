@@ -1,4 +1,4 @@
-<! html><html><head><meta charSet="-8"/><meta http-="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>< data-href="/styles..css" data-identity="gatsby-global-css">@charset "UTF-8";/*!
+<! html><html><head><meta charSet="-8"/><meta http-="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="=device-width, initial-scale=1, shrink-to-fit=no"/>< data-href="/styles..css" data-identity="gatsby-global-css">@charset "UTF-8";/*!
  * Bootstrap v5.1.3 (https://.com/)
  * Copyright 2011-2021 The Bootstrap discounter
           Authorssdas
