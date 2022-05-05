@@ -9,7 +9,7 @@
 /static/dc8a0d2926e4582e483319ed35ec24b9/630fb/celestia-architecture.png 300w,
 /static/dc8a0d2926e4582e483319ed35ec24b9/2a4de/celestia-architecture.png 600w,
 /static/dc8a0d2926e4582e483319ed35ec24b9/db955/celestia-architecture.png 900w,
-/static/dc8a0d2926e4582e483319ed35ec24b9/f3583/celestia-architecture.png 1200w,
+/static/dc8a0d2926e4582e483319ed35ec24b9/f3583/cel
 /static/dc8a0d2926e4582e483319ed35ec24b9/adc75/celestia-architecture.png 3456w" sizes="(max-width: 600px) 100vw, 600px" /><img loading="lazy" sizes="(max-width: 600px) 100vw, 600px" srcset="/static/dc8a0d2926e4582e483319ed35ec24b9/6d161/celestia-architecture.png 150w,
 /static/dc8a0d2926e4582e483319ed35ec24b9/630fb/celestia-architecture.png 300w,
 /static/dc8a0d2926e4582e483319ed35ec24b9/2a4de/celestia-architecture.png 600w,
