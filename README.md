@@ -1,28 +1,4 @@
-
-          window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
-          
-          </script><style type="text/css">
-    .anchor.before {
-      position: absolute;
-      top: 0;
-      left: 0;
-      transform: translateX(-100%);
-      padding-right: 4px;
-    }
-    .anchor.after {
-      display: inline-block;
-      padding-left: 4px;
-    }
-    h1 .anchor svg,
-    h2 .anchor svg,
-    h3 .anchor svg,
-    h4 .anchor svg,
-    h5 .anchor svg,
-    h
-    h6 .anchor:focus svg {
-      visibility: visible;
-    }
-  </style><script>
+</style><script>
     document.addEventListener("DOMContentLoaded", function(event) {
       var hash = window.decodeURI(location.hash.replace('#', ''))
       if (hash !== '') {
