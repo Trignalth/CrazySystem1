@@ -5,7 +5,6 @@
 /static/1077fcd23acb027f47fa5b1c5d134a6b/630fb/celestia-team.png 300w,
 /static/1077fcd23acb027f47fa5b1c5d134a6b/2a4de/celestia-team.png 600w,
 /static/1077fcd23acb027f47fa5b1c5d134a6b/db955/celestia-team.png 900w,
-/static/1077fcd23acb027f47fa5b1c5d134a6b/f3583/celestia-team.png 1200w,
 /static/1077fcd23acb027f47fa5b1c5d134a6b/cea56/celestia-team.png 1680w" sizes="(max-width: 600px) 100vw, 600px" /><img loading="lazy" sizes="(max-width: 600px) 100vw, 600px" srcset="/static/1077fcd23acb027f47fa5b1c5d134a6b/6d161/celestia-team.png 150w,
 /static/1077fcd23acb027f47fa5b1c5d134a6b/630fb/celestia-team.png 300w,
 /static/1077fcd23acb027f47fa5b1c5d134a6b/2a4de/celestia-team.png 600w,
