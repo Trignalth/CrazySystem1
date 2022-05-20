@@ -23,10 +23,7 @@
       var o=function(){this._q=[];return this}
       ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
       ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
-      ;return this}
-      ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
-      ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
-      ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+      ;return this}["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
       ;function v(e){function t(t){e[t]=function()o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
       heap.load("4099325469");
       heap.identify('284326');
