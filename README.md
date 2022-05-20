@@ -14,4 +14,4 @@
           g.consent=function(a){g("consent",!arguments.length||a)};
           g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
       ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
-      ;r.onload=function(){if(e.amplitude.runQueuedFunctions
+
