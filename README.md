@@ -15,37 +15,3 @@
           g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
       ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
       ;r.onload=function(){if(e.amplitude.runQueuedFunctions){["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
-      ;function v(e){function t(t){e[t]=function()o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])
-      href="/static/assets/img/favicon.png"
-      type="image/x-icon"
-    />
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Lato|Rubik:300,400,500" rel="stylesheet">
-    <link href="/static/stylesheets/base.css" rel="stylesheet">
-    <script src="//fast.appcues.com/92479.js"></script>
-    <script>
-      if (typeof Appcues !== "undefined") {
-        Appcues.page();
-        Appcues.identify(
-          232333,
-          {
-            teamId: 284326,
-            isBillingAdmin: "True",
-            createdAt: "1651155218.723",
-            teamName: "roma",
-            name: "roma martynov",
-            email: "martyanovroma62@gmail.com",
-          }
-        );
-      }
-    </script>
-    
-<link type="text/css" href="/static/build/dashboard.styles.84013ce0be7b5a20fa69.css" rel="stylesheet" />
-
-  </head>
-  <body>
-    
-<div id="root" />
-<script type="text/javascript" src="/static/build/dashboard.84013ce0be7b5a20fa69.js" ></script>
-
-  </body>
-</html>
