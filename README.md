@@ -12,5 +12,4 @@
           g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
           g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
           g.consent=function(a){g("consent",!arguments.length||a)};
-          g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
-      ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.
+          g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v
