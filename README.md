@@ -4,16 +4,7 @@
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta name="referrer" content="same-origin" />
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116626517-5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());<script>
-      window['_fs_debug'] = false;
-      window['_fs_host'] = 'fullstory.com';
-      window['_fs_org'] = 'J52EH';
-      window['_fs_namespace'] = 'FS';
-      (function(m,n,e,t,l,o,g,y){
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116626517-5"></script> 
           if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
           g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
           o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
