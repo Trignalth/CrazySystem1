@@ -18,15 +18,7 @@
       ;r.type="text/javascript";r.async=true
       ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
       ;r.onload=function(){if(e.amplitude.runQueuedFunctions){["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
-      ;function v(e){function t(t){e[t]=function()o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
-     
-    </script>
-
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Alchemy</title>
-    <link
-      rel="shortcut icon"
+      ;function v(e){function t(t){e[t]=function()o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])
       href="/static/assets/img/favicon.png"
       type="image/x-icon"
     />
