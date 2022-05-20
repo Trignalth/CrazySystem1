@@ -13,17 +13,7 @@
           g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
           g.consent=function(a){g("consent",!arguments.length||a)};
           g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
-          g.clearUserCookie=function(){};
-      })(window,document,window['_fs_namespace'],'script','user');
-
-      FS.identify('232333', {
-          displayName: 'roma martynov',
-          email: 'martyanovroma62@gmail.com',
-          teamName_str: 'roma',
-        });
-    </script>
-    
-    <script type="text/javascript">
+          g.clearUserCookie=function(){}
       (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
       ;r.type="text/javascript";r.async=true
       ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
