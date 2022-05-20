@@ -8,20 +8,7 @@
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-116626517-5');
-      gtag('config', 'AW-360844917');
-    </script>
-    <script>
-      window["__DJANGO_CONTEXT__"] = {
-        CHARGIFY_SITE_URL: "https://alchemyapi-io.chargify.com",
-        CHARGIFY_JS_PUBLIC_KEY: "chjs_jpv8rmsy3kwdx7bjfb583fd2",
-        MARKETING_BASE_URL: "https://alchemy.com",
-      };
-    </script>
-    
-    <script>
+      gtag('js', new Date());<script>
       window['_fs_debug'] = false;
       window['_fs_host'] = 'fullstory.com';
       window['_fs_org'] = 'J52EH';
