@@ -11,4 +11,4 @@
           y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
           g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
           g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
-          g.consent=function(a){g("consent",!arguments.length||a)};
+ 
