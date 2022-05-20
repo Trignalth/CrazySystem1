@@ -28,10 +28,7 @@
       ;r.type="text/javascript";r.async=true
       ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
       ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
-      e.amplitude.runQueuedFunctions()}else{
-      console.log("[Amplitude] Error: could not load SDK")}}
-      ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
-      ;function s(e,t){e.prototype[t]=function(){
+      e.amplitude.runQueuedFunctions()}els
       this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
       var o=function(){this._q=[];return this}
       ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
