@@ -28,8 +28,6 @@
       ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
       ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
       ;function v(e){function t(t){e[t]=function(){
-      e=(!e||e.length===0?"$default_instance":e).toLowerCase()
-      ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
       ;e.amplitude=n})(window,document);
 
       amplitude.getInstance().init("9d1ec83932b37fb18f1e3fa055622068");
