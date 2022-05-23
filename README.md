@@ -7,10 +7,6 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116626517-5"></script> 
 if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
 g=m[e]=function(a,b,s){g.q?g.q.push([
-<!DOCTYPE html>
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system">
-<head>
-<meta charset="utf-8">
 <link rel="dns-prefetch" href="https://github.githubassets.com">
 <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
 <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
