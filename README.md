@@ -6,5 +6,4 @@
     <meta name="referrer" content="same-origin" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116626517-5"></script> 
           if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
-          g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
- 
+          g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api
